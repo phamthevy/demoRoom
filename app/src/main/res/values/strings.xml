@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demoRoom</string>
+    <string name="hint_last_name">Last name</string>
+</resources>
